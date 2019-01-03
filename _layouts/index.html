@@ -3,29 +3,41 @@ layout: default
 ---
 <header>
 				<div class="sun-flower top-header">
-								<img class="tiny-logo" src="{{site.baseurl}}/images/5pani2pesci.png">
+								<a href="https://5p2p.it">
+												<img class="tiny-logo" src="{{site.baseurl}}{{site.data.general.logo['5pani2pesci']}}" alt="5pani2pesci">
+								</a>
+								<p></p>
+								<p></p>
+								<p></p>
 								<div class="container">
-								<h1><img src="{{site.baseurl}}/images/21cromosomi-logo-big.png" alt="21 Cromosomi"></h1>
-								<h2 class="h3-size white-opaque-text">{{page.subtitle}}</h2>
-								{{content}}
+												<h1><img src="{{site.baseurl}}{{site.data.general.logo.big}}" alt="{{site.title}}"></h1>
+								<h2 class="h3-size white-opaque-text">
+												{{site.data.general.index.subtitle | markdownify}}</h2>
+								{{site.data.general.index.content | markdownify}}
 								</div>
 				</div>
 </header>
 
 <div class="container">
 				<div class="centered-text">
-								<h3 class="h2-size">Ultimi articoli</h3>
+								<h2>Ultimi articoli</h2>
 				</div>
 				<div class="list-dates">
 								{% for post in site.posts %}
-								<div class="el-dates">
-												<a href="{{site.baseurl}}{{post.url}}">
-																<span class="days">{{ post.days }}</span>
-																<span class="sep">&bull;</span>
-																<span class="location">{{ post.location }}</span>
+								<div class="el-dates centered-text">
+												<a class="no-decoration" href="{{site.baseurl}}{{post.url}}">
+																<span>{{ post.date | date: "%d.%m.%y" }}</span>
+																&nbsp; • &nbsp;
+																<h3 class="inline-text">{{ post.title }}</h3>
 												</a>
 								</div>
 
 								{% endfor %}
 				</div>
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

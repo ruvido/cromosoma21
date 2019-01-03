@@ -40,6 +40,9 @@ small, .font_small {font-size: 0.8em;}
 strong {
     font-weight: bold;
 }
+.regular-text {
+				font-weight: 400;
+}
 
 i,em {
     font-style: italic;
@@ -50,7 +53,8 @@ p {
 }
 
 a {
-    color: black;
+    //color: black;
+		color: #333;
 }
 
 .big-text {

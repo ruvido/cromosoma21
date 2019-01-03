@@ -7,8 +7,11 @@
 								{{content}}
 
 								 <footer class="centered-text">
-												<small>Crafted with ❤️ by 
-												<a href="https://5p2p.it">5pani2pesci</a></small>
+												 <div class="container">
+												 <small>{{site.data.general.footer.crafted_by | markdownify}}</small>
+												 <small class="grayed-text">
+																 {{site.data.general.footer.copyright | markdownify}}</small>
+												 </div>
 								</footer>
 				</body>
 </html>
