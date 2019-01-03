@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<header>
+				<div class="sun-flower top-header">
+								<div class="container">
+								<img src="{{site.baseurl}}/images/600px-square.png">
+								<h1>
+								<img src="{{site.baseurl}}/images/21cromosomi-logo-big.png">
+								</h1>
+								<h3>{{page.subtitle}}</h3>
+								<p>{{content}}</p>
+								</div>
+				</div>
+</header>
+
+<div class="container">
+				<div class="centered-text">
+								<h3>Ultimi articoli</h3>
+				</div>
+				<div class="list-dates">
+								{% for post in site.posts %}
+								<div class="el-dates">
+												<a href="{{site.baseurl}}{{post.url}}">
+																<span class="days">{{ post.days }}</span>
+																<span class="sep">&bull;</span>
+																<span class="location">{{ post.location }}</span>
+												</a>
+								</div>
+
+								{% endfor %}
+				</div>
+</div>

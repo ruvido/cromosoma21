@@ -1,0 +1,80 @@
+//@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900');
+body {
+  //font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+html {font-size: 14px;}
+
+
+body {
+  background-color: white;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333;
+}
+
+.container {
+    padding: 0 3.0em;
+    max-width: $tablet;
+    margin: 0 auto;
+}
+
+p {margin-bottom: 1.250em;}
+
+h1, h2, h3, h4, h5 {
+  margin: 1.250em 0 0.64em;
+  font-weight: 900;
+  line-height: 1.2;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 4.209em;
+}
+
+h2 {font-size: 3.157em;}
+
+h3 {font-size: 2.369em;}
+
+h4 {font-size: 1.777em;}
+
+h5 {font-size: 1.333em;}
+
+small, .font_small {font-size: 0.75em;}
+
+strong {
+    font-weight: bold;
+}
+
+i,em {
+    font-style: italic;
+}
+
+p {
+    padding: 0.4em 0;
+}
+
+a {
+    color: black;
+}
+
+.big-text {
+    font-size: 1.618em;
+}
+
+.huge-text {
+    font-size: 2.618em;
+}
+
+.centered-text {
+				text-align: center;
+}
+
+h1,h2,h3,h4,h5,p {margin:0; padding:0}
+h0, .h0-size {font-size: 4.209em;}
+h1, .h1-size {font-size: 3.157em;}
+h2, .h2-size {font-size: 2.369em;}
+h3, .h3-size {font-size: 1.777em;}
+h4, .h4-size {font-size: 1.333em;}
