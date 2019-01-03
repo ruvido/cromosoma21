@@ -5,18 +5,16 @@ layout: default
 				<div class="sun-flower top-header">
 								<div class="container">
 								<img src="{{site.baseurl}}/images/600px-square.png">
-								<h1>
-								<img src="{{site.baseurl}}/images/21cromosomi-logo-big.png">
-								</h1>
-								<h3>{{page.subtitle}}</h3>
-								<p>{{content}}</p>
+								<h1><img src="{{site.baseurl}}/images/21cromosomi-logo-big.png" alt="21 Cromosomi"></h1>
+								<h2 class="h3-size white-opaque-text">{{page.subtitle}}</h2>
+								{{content}}
 								</div>
 				</div>
 </header>
 
 <div class="container">
 				<div class="centered-text">
-								<h3>Ultimi articoli</h3>
+								<h3 class="h2-size">Ultimi articoli</h3>
 				</div>
 				<div class="list-dates">
 								{% for post in site.posts %}
