@@ -15,12 +15,14 @@ layout: default
 												{{site.data.general.index.subtitle | markdownify}}</h2>
 								{{site.data.general.index.content | markdownify}}
 								</div>
+				<p></p>
 				</div>
 </header>
 
+<p></p>
 <div class="container">
 				<div class="centered-text">
-								<h2>Ultimi articoli</h2>
+								<h3 class="h2-size">Ultimi articoli</h3>
 				</div>
 				<div class="list-dates">
 								{% for post in site.posts %}
@@ -28,7 +30,8 @@ layout: default
 												<a class="no-decoration" href="{{site.baseurl}}{{post.url}}">
 																<span>{{ post.date | date: "%d.%m.%y" }}</span>
 																&nbsp; • &nbsp;
-																<h3 class="inline-text">{{ post.title }}</h3>
+																<strong class="h4-size">{{ post.title }}</strong>
+																<!--h3 class="inline-text">{{ post.title }}</h3-->
 												</a>
 								</div>
 
