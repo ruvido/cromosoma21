@@ -2,6 +2,11 @@ img {
     max-width: 100%;
 }
 
+.tiny-logo {
+				margin:-1rem auto 3rem 1rem;
+				max-width: 140px;
+}
+
 header,footer {
     padding:0;
     width: 100%;
@@ -12,6 +17,8 @@ header,footer {
 				width: 100%;
     }
 }
+footer {padding-bottom: 1rem;}
+
 .top-header {
 				padding: 2rem 0;
 }
