@@ -4,10 +4,9 @@ google:
         #        analytics: UA-39520577-1
 future: true
 timezone: UTC
-title: Cromosoma21
-subtitle: Cromosoma21
-description: Cromosoma21
-url: https://cromosoma21.5p2p.it
+title: 21Cromosomi
+description: 21Cromosomi
+url: https://21cromosomi.5p2p.it
 baseurl: ''
 permalink: "/:title/"
 exclude: [.git]
