@@ -24,23 +24,30 @@ layout: default
 				<div class="centered-text">
 								<h3 class="h2-size">Ultimi articoli</h3>
 				</div>
+
 				<div class="list-dates">
 								{% for post in site.posts %}
-								<div class="el-dates centered-text">
+								<div class="el-dates margin-0-auto">
 												<a class="no-decoration" href="{{site.baseurl}}{{post.url}}">
-																<span>{{ post.date | date: "%d.%m.%y" }}</span>
-																&nbsp; • &nbsp;
-																<strong class="h4-size">{{ post.title }}</strong>
-																<!--h3 class="inline-text">{{ post.title }}</h3-->
+												<div class="flex">
+																<div class="width-40">
+																				{{ post.date | date: "%d.%m.%y" }} &nbsp; • &nbsp;</div>
+																<strong class="h4-size width-60">
+																				{{post.title}}</strong>
+												</div>
 												</a>
 								</div>
 
 								{% endfor %}
 				</div>
+
+
 </div>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
+<div class="margin-0-auto sun-flower rounded-logo">
+				<div class="helper"></div>
+				<img src="{{site.data.general.logo.big}}" alt="Cromosoma21"> 
+</div>
