@@ -1,0 +1,12 @@
+<header class="sun-flower">
+<nav class="flex center container">
+				<a href="/">
+								<img class="tiny-logo" src="{{site.data.general.logo.header}}" alt="{{site.title}}"></a></a>
+				{% for ii in site.data.general.navigation %}
+				<a class="menu-item" href="{{site.baseurl}}{{ii.url}}">
+								<i class="fas fa-{{ii.icon}}"></i></a>
+				{% endfor %}
+</nav>
+</header>
+
+

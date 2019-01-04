@@ -4,8 +4,8 @@ permalink: scrivici
 layout: page
 ---
 
-Vorresti proporre una nuova tappa di **L'Amore Chiama!** nella tua parrocchia o diocesi? Scrivi un messaggio a:
+Se vuoi scriverci un messaggio, puoi contattarci su
 
-> info@5p2p.it
+> cromosoma21@5p2p.it
 
 A presto!

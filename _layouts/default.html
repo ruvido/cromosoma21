@@ -6,9 +6,17 @@
 				<body>
 								{{content}}
 
-								 <footer class="centered-text">
+							 <footer class="centered-text">
 												 <div class="container">
 												 <small>{{site.data.general.footer.crafted_by | markdownify}}</small>
+												 <p></p>
+												 <small class="grayed-text padding-02"> • </small>
+												 {% for ii in site.data.general['5pani2pesci'].social %}
+												 <a class="no-decoration" href="{{ii.url}}">
+												 <small class="grayed-text padding-02">
+																 {{ii.name}} • </small>
+												 </a>
+												 {% endfor %}
 												 <small class="grayed-text">
 																 {{site.data.general.footer.copyright | markdownify}}</small>
 												 </div>

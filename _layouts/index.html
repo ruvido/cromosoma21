@@ -3,19 +3,28 @@ layout: default
 ---
 <header>
 				<div class="sun-flower top-header">
+								<div class="container">
 								<a href="https://5p2p.it">
 												<img class="tiny-logo" src="{{site.baseurl}}{{site.data.general.logo['5pani2pesci']}}" alt="5pani2pesci">
 								</a>
 								<p></p>
 								<p></p>
 								<p></p>
-								<div class="container">
 												<h1><img src="{{site.baseurl}}{{site.data.general.logo.big}}" alt="{{site.title}}"></h1>
 								<h2 class="h3-size white-opaque-text">
 												{{site.data.general.index.subtitle | markdownify}}</h2>
 								{{site.data.general.index.content | markdownify}}
-								</div>
 				<p></p>
+								<div class="">
+												{% for ii in site.data.general.navigation %}
+												<a class="no-decoration" href="{{site.baseurl}}{{ii.url}}">
+																<div class="h5-size opacity-6 padding-02">
+																				<span class="span-25px">
+																								<i class="fas fa-{{ii.icon}}"></i></span>
+																				<strong>&nbsp; {{ii.name}}</strong></div></a>
+												{% endfor %}
+								</div>
+								</div>
 				</div>
 </header>
 
@@ -26,12 +35,12 @@ layout: default
 				</div>
 
 				<div class="list-dates">
-								{% for post in site.posts %}
+								{% for post in site.posts limit: 5 %}
 								<div class="el-dates margin-0-auto">
 												<a class="no-decoration" href="{{site.baseurl}}{{post.url}}">
 												<div class="flex">
 																<div class="width-40 right-text">
-																				{{ post.date | date: "%d.%m.%y" }} &nbsp; • &nbsp;</div>
+																				{{ post.date | date: "%d.%m" }} &nbsp; • &nbsp;</div>
 																<strong class="text-left h4-size width-60">
 																				{{post.title}}</strong>
 												</div>

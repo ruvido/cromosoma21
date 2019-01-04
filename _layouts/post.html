@@ -1,56 +1,28 @@
 ---
 layout: default
 ---
-<header class="sun-flower">
-				<!--
-				<a href="{{site.baseurl}}"> --->
-				<a href="/">
-				<img class="tiny-logo" src="{{site.data.general.logo.header}}" alt="{{site.title}}"></a>
-</header>
-
-
-<div class="container">
-
-				<p></p>
-				<p></p>
-				<h1>{{page.title}}</h1>
-				<small>{{page.date | date: '%d.%m.%y'}} 
-								{% if page.author %}
-												by {{page.author}}
-								{% elsif site.data.general.author.default %}
-												by {{site.data.general.author.default}}
-								{% endif %}
-				</small>
-
-				<p></p>
-				<div class="h4-size opacity-3"><strong>{{page.excerpt}}</strong></div>
-
-				{{ content | remove_first:page.excerpt }}
-
-</div>
-
-<p></p>
-<p></p>
-<p></p>
-
-<a class="no-decoration" href="/">
-<div class="margin-0-auto margin-bottom-negative-40px sun-flower rounded-logo">
-				<div class="helper"></div>
-				<img src="{{site.data.general.logo.big}}" alt="Cromosoma21"> 
-</div>
-</a>
-
-<footer class="sun-flower"> 
+{% include top_header.html %}
 <div class="container">
 <p></p>
 <p></p>
-<p></p>
-				<img class="opacity-6" src="{{site.baseurl}}{{site.data.general.footer.image}}">
-<p></p>
-<p></p>
-				{{site.data.general.post.footer | markdownify}}
-<p></p>
-<p></p>
-</div>
-</footer>
+        <div class="light-link">
+            <a href="{{site.baseurl}}/">⟵ Indietro</a>
+        </div>
 
+<h1>{{page.title}}</h1>
+<small>{{page.date | date: '%d.%m.%y'}} 
+				{% if page.author %}
+								by {{page.author}}
+				{% elsif site.data.general.author.default %}
+								by {{site.data.general.author.default}}
+				{% endif %}
+</small>
+
+<p></p>
+<div class="h4-size opacity-3"><strong>{{page.excerpt}}</strong></div>
+
+{{ content | remove_first:page.excerpt }}
+
+</div>
+
+{% include bottom_footer.html %}

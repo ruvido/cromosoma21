@@ -1,0 +1,33 @@
+<p></p>
+<p></p>
+<p></p>
+
+<a class="no-decoration" href="/">
+<div class="margin-0-auto margin-bottom-negative-40px sun-flower rounded-logo">
+<div class="helper"></div>
+<img src="{{site.data.general.logo.big}}" alt="Cromosoma21"> 
+</div>
+</a>
+
+<footer class="sun-flower"> 
+<div class="container">
+<p></p>
+<p></p>
+<p></p>
+<img class="opacity-6" src="{{site.baseurl}}{{site.data.general.footer.image}}">
+<p></p>
+<p></p>
+{{site.data.general.post.footer | markdownify}}
+<div class="">
+				{% for ii in site.data.general.navigation %}
+				<a class="no-decoration" href="{{site.baseurl}}{{ii.url}}">
+								<div class="h5-size opacity-6 padding-02">
+																<span class="span-20px">
+																				<i class="fas fa-{{ii.icon}}"></i></span>
+																<strong>{{ii.name}}</strong></div></a>
+								{% endfor %}
+				</div>
+
+</div>
+</footer>
+
