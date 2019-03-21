@@ -3,7 +3,7 @@ title: Vieni e seguimi
 date: 2019-03-21 09:52:36 +0100
 
 ---
-Ci siamo sposati nel 2015 ma le letture del nostro matrimonio continuavamo ad essere un incognita: *“Ma cosa vorrà dire davvero quel “va vendi tutto quello che hai, vieni e seguimi?”.* L’abbiamo capito quando ci hanno detto che Chiara avrebbe avuto la Sindrome di Down.
+Ci siamo sposati nel 2015 ma le letture del nostro matrimonio continuavano ad essere un incognita: *“Ma cosa vorrà dire davvero quel “va vendi tutto quello che hai, vieni e seguimi?”.* L’abbiamo capito quando ci hanno detto che Chiara avrebbe avuto la Sindrome di Down.
 
 
 A Novembre 2014 Cosimo ed io, decidemmo di partecipare al Corso Agape ad Assisi per mettere un po’ di idee in ordine sul matrimonio. La proposta c’era stata. Volevamo sposarci seguendo lo stile francescano, in semplicità, come ci aveva detto Padre Giovanni e ci servivano le giuste linee guida!
