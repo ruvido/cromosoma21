@@ -1,7 +1,7 @@
 ---
 google:
         fonts: 'Roboto:400,700'
-        #        analytics: UA-39520577-1
+        analytics: UA-39520577-3
 future: true
 timezone: UTC
 title: Cromosoma21
