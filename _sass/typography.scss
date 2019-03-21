@@ -69,3 +69,20 @@ a {
 .centered-text {
 				text-align: center;
 }
+
+blockquote {
+  p {
+    // @extend .summary-font;
+    //font-weight: bold;
+    font-style: italic;
+    margin: 0.2em 0;
+    padding-left: 1em;
+    font-size: 1.10em;
+    border-left: 0.8em solid silver;
+  }
+  cite{
+    font-size: 1em;
+    color: silver;
+  }
+  cite:before{content:"\2014"; padding-right: 0.2rem;}
+}
