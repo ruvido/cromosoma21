@@ -1,7 +1,7 @@
 ---
 title: Il mondo nuovo!
----
 
+---
 Il mio cartone preferito era ed è "La Bella e la Bestia". Oltre alla storia d'amore mi è sempre piaciuto come tratta il tema della diversità, di come insegna a non giudicare dalle apparenze e come Bella non ci stia a non vivere la sua "vocazione". 
 
 Lei sa di non volere una vita "da divano", sa che è stata fatta per vivere al meglio la propria vita. Quando nel 2008 ho incontrato quel ragazzo che è oggi mio marito non avrei mai immaginato l'avventura meravigliosa che è il nostro matrimonio. Come dico in un post del blog che ho iniziato a scrivere dopo la nascita di nostra figlia, quando per il Signore lasci qualcosa, Lui poi ti ripaga con quel famoso cento volte tanto… e non scherza! 
