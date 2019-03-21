@@ -1,7 +1,7 @@
 ---
 title: Che cos’è la Sindrome di Down?
----
 
+---
 #### Io penso che la Sindrome di Down sia avere i super poteri.
 
 Si, penso che mia figlia abbia i super poteri, primo tra tutti il suo sorriso e la sua capacità di sorprendersi ad ogni nuova cosa. Poi ha una spiccata tendenza a prenderti per i fondelli, degna di un’adolescente, più super potere di quello!
@@ -20,4 +20,4 @@ Abbiamo iniziato in gravidanza e dopo un anno e mezzo, ci siamo resi conto che i
 
 Dico questo non sulla base della mia fede. Si, la fede aiuta, tanto, infinitamente, nelle notti in cui resti sveglia a pensare al futuro, all’asilo, se l’accetteranno le maestre, i compagnetti, e quando poi toccherà alla scuola? La fede mi calma. Dio, nella Bibbia ripete 365 volte “Non Temere”, uno al giorno. Tutte per me! Tutte per noi mamme! 
 
-La Sindrome di Down è un dono perché si! Perchè non potrei immaginare un mondo senza questa diversità che ci rende unici. Che noia pensare ad un mondo tutto uguale, di un solo colore. Invece guardate la fantasia con cui siamo fatti, nel colore degli occhi, nelle sfumature della pelle, nelle tonalità che colorano i capelli e perfino nel DNA! 
+La Sindrome di Down è un dono perché si! Perchè non potrei immaginare un mondo senza questa diversità che ci rende unici. Che noia pensare ad un mondo tutto uguale, di un solo colore. Invece guardate la fantasia con cui siamo fatti, nel colore degli occhi, nelle sfumature della pelle, nelle tonalità che colorano i capelli e perfino nel DNA!
