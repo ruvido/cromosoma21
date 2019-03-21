@@ -20,7 +20,7 @@ _L'ho amata più della salute e della bellezza, ho preferito avere lei piuttosto
 Anche il Salmo e la Lettera di San Paolo erano bellissime ma il Vangelo ci colse di sorpresa.
 Il **Vangelo** era quello di Matteo che racconta l’episodio del giovane ricco.
 
-_Gesù fissò lo sguardo su di lui, lo amò e gli disse: «Una cosa sola ti manca: va', vendi quello che hai e dallo ai poveri, e avrai un tesoro in cielo; **e vieni! Seguimi!**»._
+_Gesù fissò lo sguardo su di lui, lo amò e gli disse: «Una cosa sola ti manca: va', vendi quello che hai e dallo ai poveri, e avrai un tesoro in cielo; ** vieni! e Seguimi!**»._
 
 ..e poi…
 
