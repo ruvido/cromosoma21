@@ -2,9 +2,7 @@
 title: 'La nostra famiglia: un mondo nuovo!'
 
 ---
-Il mio cartone preferito era ed è "La Bella e la Bestia". Oltre alla storia d'amore mi è sempre piaciuto come tratta il tema della diversità, di come insegna a non giudicare dalle apparenze e come Bella non ci stia a non vivere la sua "vocazione".
-
-Lei sa di non volere una vita "da divano", sa che è stata fatta per vivere al meglio la propria vita. 
+Il mio cartone preferito era ed è "La Bella e la Bestia". Oltre alla storia d'amore mi è sempre piaciuto come tratta il tema della diversità, di come insegna a non giudicare dalle apparenze e come Bella non ci stia a non vivere la sua "vocazione".Lei sa di non volere una vita "da divano", sa che è stata fatta per vivere al meglio la propria vita.
 
 Quando nel 2008 ho incontrato quel ragazzo che è oggi mio marito non avrei mai immaginato l'avventura meravigliosa che è il nostro matrimonio. Come dico in un post del blog che ho iniziato a scrivere dopo la nascita di nostra figlia, quando per il Signore lasci qualcosa, Lui poi ti ripaga con quel famoso cento volte tanto… e non scherza!
 
@@ -14,13 +12,13 @@ In questo mondo che ci sfida alla perfezione, io guardo a quel piccolo cromosoma
 
 Eterni.
 
-Coraggiosi? Non lo so! Devo ammettere un po' siamo andati nel panico, nessuno è equipaggiato per ricevere notizie del genere. La prima cosa che abbiamo fatto è stato cercare e parlare con altri genitori perché nessuno è più adatto a parlare di chi su quel treno ci è già salito e se la sta cavando alla grande. È così che si fanno amicizie, si ampliano gli orizzonti, ci si sente meno soli e la speranza di farcela divampa dentro di te. 
+Coraggiosi? Non lo so! Devo ammettere un po' siamo andati nel panico, nessuno è equipaggiato per ricevere notizie del genere. La prima cosa che abbiamo fatto è stato cercare e parlare con altri genitori perché nessuno è più adatto a parlare di chi su quel treno ci è già salito e se la sta cavando alla grande. È così che si fanno amicizie, si ampliano gli orizzonti, ci si sente meno soli e la speranza di farcela divampa dentro di te.
 
 Non siamo eroi. Siamo semplicemente due genitori che amano profondamente la loro piccolina. Siamo qui per dire che non è semplice, ( ma cos'è semplice in questo viaggio?) ma che ci spinge una forza che va al di là di ogni pensiero ed immaginazione, l'Amore, quello con la A maiuscola.
 
 Io sono Giorgia, 30 anni, nata a Bologna e cresciuta tra Bologna, Catania e Recco, laureata in Economia dei Mercati e dei Sistemi Turistici. Tornata a Bologna dopo l’università , ho aperto un Room&Breakfast nella vecchia casa del nonno Gianni.
 
-Con mio marito Cosimo, 30 anni, di Matera, laureato in Ingegneria Elettronica, per motivi di lavoro viviamo da quasi 4 anni a Villach in Austria e pensiamo che il Grande Capo abbia i suoi progetti su di noi qui. 
+Con mio marito Cosimo, 30 anni, di Matera, laureato in Ingegneria Elettronica, per motivi di lavoro viviamo da quasi 4 anni a Villach in Austria e pensiamo che il Grande Capo abbia i suoi progetti su di noi qui.
 
 Il 10 Ottobre 2015 io e Cosimo ci siamo sposati in Cristo in una bellissima chiesetta sull'appennino bolognese dedicata a San Giovanni Battista.
 
