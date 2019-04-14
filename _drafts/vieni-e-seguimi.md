@@ -1,48 +1,51 @@
 ---
-title: Vieni e seguimi
+title: " Perché a Voi?"
 date: 2019-04-14 17:23:27 +0200
 
 ---
-A Novembre 2014 Cosimo ed io, decidemmo di partecipare al Corso “Agape” ad Assisi per mettere un po’ di idee in ordine sul matrimonio. La proposta c’era stata. Volevamo sposarci seguendo lo “stile” francescano, in semplicità, come ci aveva detto Padre Giovanni e ci servivano le giuste linee guida!
 
-“Il Signore vi parla ogni giorno”
+> \` Davanti alle tante domande che ci fanno, alle volte ingoiamo tanti bocconi amari, ma è nel nostro stile cercare di rispondere bene e di lasciare un’impronta positiva sulla persona che ci sta davanti. Ogni giorno per noi, questo cammino si trasforma, ci riempie di gioia, che vale la pena condividere!\` 
 
-Questa frase ci venne rivolta da Fra Pasqualino, durante il corso; “ potete scegliere le letture classiche dei matrimoni, o le vostre preferite, quelle che vi hanno detto qualcosa nel vostro percorso di coppia” ma aggiunse “ però sappiate che il Signore vi dice qualcosa di nuovo ogni giorno, e sarebbe bello e stimolante vedere che cosa avrà da dire proprio quel giorno per le vostre nozze”. Era fatta. Ci aveva conquistato. 
+Una persona a me molto vicina è stata la prima a chiedermi “non capisco perché è capitato a te” e io ho risposto con un’altra domanda “perché non a me?...chi sono io per venire esonerata dalle fatiche e dalle gioie della vita?” .
 
-Quando scegliemmo la data, andammo subito a leggere le letture.
+Per chi ci segue sul blog sa che ho due genitori disabili, due diverse disabilità. Mio padre ha avuto la poliomielite fin da bambino e mia mamma è paraplegica dall’adolescenza e le persone quando ci vedevano insieme chiedevano se ero figlia loro...oh! Non lo vedevano che ero la fotocopia di mio padre!?! Ma questa è un’altra storia! 
 
-La prima dal libro della Sapienza ci parlava della prudenza:
+Partendo da questo ora, le persone che mi conoscono chiedono “ perché a te, che hai (già) due genitori così ti è “capitata” una figlia con la Sindrome di Down?” 
 
-\*L'ho amata più della salute e della bellezza, ho preferito avere lei piuttosto che la luce, perché lo splendore che viene da lei non tramonta (Sap. 7, 7-11)*
+Quello che voglio spiegare, e vorrei che finalmente riuscisse a passare è il concetto che nessuno è esonerato dalla vita! Mia figlia non mi è capitata! Mi è stata donata! Come io sono stata donata ai miei, disabili da più di vent’anni contro ogni previsione medica nei confronti sopratutto di mia mamma. 
 
-Anche il Salmo e la Lettera di San Paolo erano bellissime ma il Vangelo ci colse di sorpresa.
+I figli ti sono donati. La vita ti è donata!
 
-Il Vangelo era quello di Matteo che racconta l’episodio del giovane ricco. 
+Su Instagram una signora ha scritto che la Sindrome non è un dono perché se sua figlia avesse potuto scegliere non avrebbe scelto di avere quel cromosoma in più.
 
-\*Gesù fissò lo sguardo su di lui, lo amò e gli disse: «Una cosa sola ti manca: va', vendi quello che hai e dallo ai poveri, e avrai un tesoro in cielo; **e vieni! Seguimi!**».*
+Cara trismamma come me, ma chi lo sceglierebbe il cromosoma in più? 
 
-..e poi…
+Ma chi sceglierebbe le operazioni al cuore, i problemi alla tiroide, le vene che non si vedono che ogni volta che dobbiamo fare un prelievo è una tragedia? Nessuno. 
 
-\*In verità io vi dico: non c'è nessuno che abbia lasciato casa o fratelli o sorelle o madre o padre o figli o campi per causa mia e per causa del Vangelo, che non riceva già ora, in questo tempo, cento volte tanto in case e fratelli e sorelle e madri e figli e campi, insieme a persecuzioni, e la vita eterna nel tempo che verrà.*
+Per questo sono un dono, per questo quella terza parte del cromosoma 21 sono un regalo, per farci vedere la vita con occhi diversi, per farci assaporare in un modo migliore tutti i sapori, anche i bocconi amari che dobbiamo buttare giù tutte le volte che qualcuno dice qualcosa sulle nostre figlie che non è vero. 
 
-Ci guardammo chiedendoci che cosa volesse dirci il Signore con questo Vangelo.
+Tipo quando dicono che sono sempre sorridenti e felici. Ma chi l’ha detto? Gli presterei Chiara una delle sue giornate “NO”. Chiara è capace di alzarsi la mattina e invece di iniziare a dire “ciao” e mandare bacini a destra e a manca, dice“no” e tu sai che saranno 24 ore di  “no” ininterrotto! Alla faccia del felice e sorridente!!
 
-I nostri conti in banca non erano certo pieni, Cosimo al primo anno di lavoro e io che col Room&Breakfast riuscivo a pagare le bollette e a tenere poco per me. In più ci dovevamo trasferire in Austria perché a Cosimo avevano offerto un contratto a tempo indeterminato. Anzi, era proprio questo l’argomento di discussione tra noi e le nostre famiglie, ci dicevano “ siete giovani”, “pensate prima alla stabilità economica”, “ ma se proprio volete stare insieme, convivete” e noi a spiegare che era arrivato il tempo, che volevamo camminare insieme al Signore, verso qualsiasi meta Lui ci avesse proposto. Volevamo prendere il volo, volevamo lasciare il nido per farne uno nostro.
+Noi ingoiamo quei bocconi amari e con un sorriso a 32 denti, spieghiamo e cerchiamo di lasciare un’impronta positiva sulla persona che ci sta davanti. (lo so che lo fai perché metto tanti cuoricini ai tuoi post).
 
-Ci siamo sposati ma continuavamo a pensare a quelle letture, “ma cosa vorrà dire davvero quel “va vendi tutto quello che hai e vieni, Seguimi”?
+Io penso che la Sindrome di Down sia avere i super poteri.
 
-Col tempo abbiamo capito che il Signore non ci chiedeva una vita di stenti, ma ci stava chiedendo di lasciare le nostre sicurezze. Ci stava chiedendo di affidarci, di seguirlo veramente.
+Si, penso che mia figlia abbia i super poteri, primo tra tutti il suo sorriso e la sua capacità di sorprendersi ad ogni nuova cosa.
 
-L’abbiamo capito fin da subito, non avendo mai convissuto, che era ed è un farsi spazio a vicenda, che parte da “ma adesso le mie mutande dove le metto?” a “ ma tu pensi che i calzini sporchi che lasci a terra camminino da soli verso la lavatrice?” passando dal chiedere com’è andata la giornata al lavoro, se ti sei ricordata di fare il pieno alla macchina o di montare la mensola che aspetta nel corridoio da sei mesi.
+Poi ha una spiccata tendenza a prenderti per i fondelli, degna di un’adolescente, più super potere di quello!
 
-L’abbiamo capito quando ci hanno detto che Chiara avrebbe avuto la Sindrome di Down.
+Io penso che la Sindrome di Down sia una sfida.
 
-Cosa sogna per noi Dio? 
+Oggi ci sono tanti modi per far sentire insicuro un genitore, in particolare una madre. Ventimila giornali, libri, pagine social e per finire gruppi WhatsApp, in cui viene analizzata la vita delle povere creature passo dopo passo, stracciandosi le vesti se ancora il tuo non mangia un tipo particolare di pasta e l’altro più piccolo lo fa. Forse non lo ripeterò mai abbastanza, la vita non è una gara a chi arriva prima e sicuramente con la Sindrome, almeno questo è quello che penso io, i bambini se la stanno godendo alla grande, almeno penso che Chiara lo faccia, escogitandone di ogni per non fare assolutamente quello che la fisioterapista cerca di farle fare almeno da sei mesi. 
 
-Per cosa si entusiasma Dio? Dio si è entusiasmato al pensiero di Chiara.
+Io penso che la Sindrome di Down sia un cammino.
 
-Chiara è quel pensiero di Dio su di noi che si è fatto carne. 
+Da sempre penso che i vari “cammini” che si stagliano per l’Europa, siano il sinonimo della vita. Percorsi a volte facili, a volte lunghi, con salite e discese. A volte si fanno per piacere, forse si parte con questa intenzione, e poi ci si ritrova a fare discernimento. Mi piacerebbe farne uno, almeno una volta nella vita; per ora, insieme a mio marito abbiamo intrapreso il cammino con Chiara, chiamato “Alla scoperta della Sindrome di Down”. Abbiamo iniziato in gravidanza e dopo un anno e mezzo, ci siamo resi conto che il libretto di istruzioni dei medici a volte è pieno di stereotipi, che ti devi affidare all’istinto, che lei si è attaccata alla tetta perché in quel momento non mi ero tirata il latte e lei aveva fame ( di necessità..virtù!), che ti devi affidare a chi sta camminando sullo stesso percorso, forse con più difficoltà di te ma è sempre pronto a darti un consiglio se vai in panico (perché sei umana).
 
->Chiara è l’amore di Dio per noi. Chiara è il suo >chiederci di metterci in gioco veramente. 
+Io penso che la Sindrome di Down sia un dono.
 
-\**Chiara è il nostro “Vieni e Seguimi”**.
+Dico questo non sulla base della mia fede. Si, la fede aiuta, tanto, infinitamente, nelle notti in cui resti sveglia a pensare al futuro, all’asilo, se l’accetteranno le maestre, i compagnetti, e quando poi toccherà alla scuola? La fede mi calma. Dio, nella Bibbia ripete 365 volte “Non Temere”, uno al giorno. Tutte per me! Tutte per noi mamme! 
+
+La Sindrome di Down è un dono perché si! Perché non potrei immaginare un mondo senza questa diversità che ci rende unici. Che noia pensare ad un mondo tutto uguale, di un solo colore. Invece guardate la fantasia con cui siamo fatti, nel colore degli occhi, nelle sfumature della pelle, nelle tonalità che colorano i capelli e perfino nel DNA! 
+
+Ecco perché a noi, perché forse altri non avrebbero saputo spiegarlo meglio? Non lo so...Forse perché siamo segno vivente che “se la se po' fa!”, che è dura si, ci vuole tanta pazienza e un’abilità a far incastrare tutti gli appuntamenti famigliari come fosse una partita a Tetris, ma ne vale davvero la pena!
