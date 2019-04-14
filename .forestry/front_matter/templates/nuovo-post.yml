@@ -9,5 +9,3 @@ fields:
   default: ''
   config:
     required: true
-pages:
-- _posts/vieni-e-seguimi.md
