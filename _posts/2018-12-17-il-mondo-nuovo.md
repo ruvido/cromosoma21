@@ -74,7 +74,7 @@ _Come dico all’inizio...Coraggiosi?_  Non lo sappiamo. Chi non è coraggioso d
 
 La vita è cambiata… ma cosa dico cambiata… stravolta!!! Crediamo che ogni figlio porti un po’ di scompiglio nella coppia, perché in quella relazione tra due + 1 (il numero uno è Dio non ve lo dimenticate!) arriva un terzo individuo che è assolutamente un’altra persona, del quale devi imparare tutto, e noi da quel giorno di metà Giugno, abbiamo imparato tante cose.
 
-Abbiamo imparato che se la pressione nel cordone ombelicale è troppo alta, la creatura che porti dentro può stressarsi e allora nel giro di un’oretta ti preparano per un cesareo, ma tu sei tranquilla perché nelle Lodi di quella mattina hai letto <cite> Dalle Tue mani abbiamo ricevuto questo nuovo giorno, fa che segni l’inizio di una vita nuova </cite> e sai di essere nelle Mani giuste.
+Abbiamo imparato che se la pressione nel cordone ombelicale è troppo alta, la creatura che porti dentro può stressarsi e allora nel giro di un’oretta ti preparano per un cesareo, ma tu sei tranquilla perché nelle Lodi di quella mattina hai letto _"Dalle Tue mani abbiamo ricevuto questo nuovo giorno, fa che segni l’inizio di una vita nuova"_ e sai di essere nelle Mani giuste.
 
 Abbiamo imparato che il primo urlo di tua figlia ti fa sciogliere, completamente. Da quel momento sei madre, sei padre per davvero. Abbiamo imparato che nonostante il cesareo, la tua bellissima bambina sia di 40 giorni prematura, il latte ti viene subito che quasi quasi rischi la mastite.
 
