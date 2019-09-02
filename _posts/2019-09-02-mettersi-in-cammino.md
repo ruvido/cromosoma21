@@ -8,7 +8,9 @@ Non è solo prendere una strada e camminare ma è davvero un percorso di crescit
 
 Al settimo mese avanzato, la dottoressa in ospedale notò che la pressione sanguigna nel cordone ombelicale era alta, Chiara riceveva abbastanza ossigeno ma non al 100% e questo la portò a pensare che era meglio ricoverarmi.
 
-Quaranta giorni prima della scadenza. Mi affidai a Maria e a Chiara Corbella.
+Quaranta giorni prima della scadenza. 
+
+Mi affidai a Maria e a Chiara Corbella.
 
 Al telefono Alessandra mi disse “ ok dai, il tuo deserto, la strada giusta verso Lui”.
 
@@ -22,7 +24,7 @@ Nella mia stanza c’erano tre donne, abbastanza giovani, mi guardavano con il m
 
 Loro mi raccontarono la loro storia, io la mia, è difficile avvicinarsi al dolore di una persona, e a volte dimentichiamo che basta una parola buona, una battuta, un semplice sorriso, proprio mentre nel libro ero arrivata alla quarta opera di misericordia spirituale: consolare gli afflitti!..ma l’afflitta non ero io, rinchiusa la dentro?!?
 
-<<“Lampada per i miei passi è la tua parola, luce sul mio cammino.”Salmi 119:105 >>
+> “Lampada per i miei passi è la tua parola, luce sul mio cammino.” Salmi 119:105 
 
 Nelle Lodi di quel venerdì avevo pregato “Dalle Tue mani abbiamo ricevuto questo nuovo giorno, fa che segni l’inizio di una vita nuova” e li avevo capito se sarebbe stata questione di 24 ore perché il Signore quando ti fa una premessa così non devi avere dubbi.
 
@@ -34,7 +36,7 @@ Chiara nacque poche ore dopo, con taglio cesareo; uno scricciolo di 1720g lungo 
 
 Iniziava un'altra fase di questo cammino.
 
-Che cosa significa davvero mettersi in cammino nella vita?
+> Che cosa significa davvero mettersi in cammino nella vita?
 
 Non è solo prendere una strada e camminare ma è davvero un percorso di crescita, e quello che fa la differenza è il nostro atteggiamento!
 
