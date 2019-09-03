@@ -8,7 +8,7 @@ Non è solo prendere una strada e camminare ma è davvero un percorso di crescit
 
 Al settimo mese avanzato, la dottoressa in ospedale notò che la pressione sanguigna nel cordone ombelicale era alta, Chiara riceveva abbastanza ossigeno ma non al 100% e questo la portò a pensare che era meglio ricoverarmi.
 
-Quaranta giorni prima della scadenza. 
+Quaranta giorni prima della scadenza.
 
 Mi affidai a Maria e a Chiara Corbella.
 
@@ -16,7 +16,7 @@ Al telefono Alessandra mi disse “ ok dai, il tuo deserto, la strada giusta ver
 
 In quel deserto mi ritrovai a pregare in ogni angolo dell’ospedale, libro delle ore nella app del cellulare ( se si vuole si prega ovunque) in una mano e “Solo l’amore crea” di Don Fabio Rosini nell’altra.
 
-Girovagavo per il reparto di ginecologia, per quel momento non mi metterono su in maternità.
+Girovagavo per il reparto di ginecologia, per quel momento non mi misero su in maternità.
 
 Le infermiere mi scrutavano ogni volta che passavo davanti alla guardiola, qui ognuno stava nelle proprie stanze. C’è dolore in quelle stanze, donne a cui verrà tolto il seno, le ovaie, l’utero, il dolore silenzioso dell’endometriosi, ma anche speranza per un futuro senza cancro e dolore.
 
@@ -24,7 +24,7 @@ Nella mia stanza c’erano tre donne, abbastanza giovani, mi guardavano con il m
 
 Loro mi raccontarono la loro storia, io la mia, è difficile avvicinarsi al dolore di una persona, e a volte dimentichiamo che basta una parola buona, una battuta, un semplice sorriso, proprio mentre nel libro ero arrivata alla quarta opera di misericordia spirituale: consolare gli afflitti!..ma l’afflitta non ero io, rinchiusa la dentro?!?
 
-> “Lampada per i miei passi è la tua parola, luce sul mio cammino.” Salmi 119:105 
+> “Lampada per i miei passi è la tua parola, luce sul mio cammino.” Salmi 119:105
 
 Nelle Lodi di quel venerdì avevo pregato “Dalle Tue mani abbiamo ricevuto questo nuovo giorno, fa che segni l’inizio di una vita nuova” e li avevo capito se sarebbe stata questione di 24 ore perché il Signore quando ti fa una premessa così non devi avere dubbi.
 
