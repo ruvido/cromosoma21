@@ -10,6 +10,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/io-ci-sono.md
 - _posts/2019-09-02-mettersi-in-cammino.md
 - _posts/2019-07-08-cromosoma-21.md
 - _posts/2019-05-27-perché-a-voi.md
